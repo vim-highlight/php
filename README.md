@@ -1,4 +1,5 @@
-php
-===
+vim-highlight / php
+=======
 
-PHP highlight for VIM
+A Vim syntax / highlight file for PHP language.
+They are based on real-time typo detection.
